@@ -1,0 +1,45 @@
+body{ 
+  background-image: URL("/img/Fondo-tesla.jpg"); 
+ background-size:cover;
+ background-attachment: fixed;
+ background-position: 0px -150px;
+ font-family: 'Indie Flower', cursive;
+ font-family: 'Nanum Gothic Coding', monospace;
+ 
+ }
+ main{ 
+   text-align:center; 
+ }
+ h1{
+   color:white;
+   font-size:70px;
+ }
+ img{  
+   max-width:100%;
+   display:block;
+   margin:0 auto;  
+ }
+ #tribute-info{  
+   font-size:20px;
+   margin:0px auto;
+   padding-right:10px;
+   max-width:40%;
+  background-color: rgba(255, 255, 255, 0.50);
+  text-align:left;
+  justify-content:center;
+  display:flex;
+ }
+ h2{
+   text-align:center;
+ }
+ li{
+   font-size:25px;
+ }
+ #img-caption{
+   font-size:20px;
+   color:white;
+ }
+ footer{
+   font-size:20px;
+   color:white;
+ }
